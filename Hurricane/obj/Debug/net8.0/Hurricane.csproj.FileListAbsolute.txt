@@ -1,0 +1,14 @@
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Module 3 Exercise 3.2\Hurricane\bin\Debug\net8.0\Hurricane.exe
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Module 3 Exercise 3.2\Hurricane\bin\Debug\net8.0\Hurricane.deps.json
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Module 3 Exercise 3.2\Hurricane\bin\Debug\net8.0\Hurricane.runtimeconfig.json
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Module 3 Exercise 3.2\Hurricane\bin\Debug\net8.0\Hurricane.dll
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Module 3 Exercise 3.2\Hurricane\bin\Debug\net8.0\Hurricane.pdb
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Module 3 Exercise 3.2\Hurricane\obj\Debug\net8.0\Hurricane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Module 3 Exercise 3.2\Hurricane\obj\Debug\net8.0\Hurricane.AssemblyInfoInputs.cache
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Module 3 Exercise 3.2\Hurricane\obj\Debug\net8.0\Hurricane.AssemblyInfo.cs
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Module 3 Exercise 3.2\Hurricane\obj\Debug\net8.0\Hurricane.csproj.CoreCompileInputs.cache
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Module 3 Exercise 3.2\Hurricane\obj\Debug\net8.0\Hurricane.dll
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Module 3 Exercise 3.2\Hurricane\obj\Debug\net8.0\refint\Hurricane.dll
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Module 3 Exercise 3.2\Hurricane\obj\Debug\net8.0\Hurricane.pdb
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Module 3 Exercise 3.2\Hurricane\obj\Debug\net8.0\Hurricane.genruntimeconfig.cache
+C:\Users\juanj\OneDrive\Documents\HCC files\Fall 2024\Programming in C#\Coding modules\Module 3 Exercise 3.2\Hurricane\obj\Debug\net8.0\ref\Hurricane.dll
